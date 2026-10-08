@@ -1,0 +1,178 @@
+[
+  {
+    "id": "padua-intro",
+    "city": "padua",
+    "duration_minutes": 120,
+    "price_per_person": 35,
+    "currency": "EUR",
+    "conducted_language": "ru",
+    "ru": {
+      "title": "Знакомство с Падуей",
+      "city": "Падуя",
+      "description": "пешеходная прогулка по центру Падуи: площади, университетский квартал и главные ориентиры города.",
+      "route": [
+        "Прато делла Валле — обзор самой большой площади города",
+        "Базилика Святого Антония — внешний осмотр и короткая история места",
+        "Кафе Педрокки — остановка у знаменитого падуанского кафе",
+        "Университет Падуи — рассказ о старейшем университетском дворе"
+      ],
+      "meeting_point": "площадь Святого Антония, у центрального входа в базилику"
+    },
+    "en": {
+      "title": "An introduction to Padua",
+      "city": "Padua",
+      "description": "A walking tour of central Padua: squares, the university quarter, and the city's main landmarks.",
+      "route": [
+        "Prato della Valle — an overview of the city's largest square",
+        "Basilica of Saint Anthony — exterior visit and a short history of the site",
+        "Caffè Pedrocchi — a stop at Padua's famous café",
+        "University of Padua — a talk about the historic university courtyard"
+      ],
+      "meeting_point": "Piazza del Santo, by the main entrance of the basilica"
+    },
+    "it": {
+      "title": "Alla scoperta di Padova",
+      "city": "Padova",
+      "description": "Una passeggiata nel centro di Padova: piazze, quartiere universitario e principali punti di riferimento.",
+      "route": [
+        "Prato della Valle — panoramica della piazza più grande della città",
+        "Basilica di Sant'Antonio — visita esterna e breve storia del luogo",
+        "Caffè Pedrocchi — sosta presso il celebre caffè padovano",
+        "Università di Padova — racconto sul cortile storico dell'ateneo"
+      ],
+      "meeting_point": "Piazza del Santo, all'ingresso principale della basilica"
+    }
+  },
+  {
+    "id": "venice-slow",
+    "city": "venice",
+    "duration_minutes": 180,
+    "price_per_person": 60,
+    "currency": "EUR",
+    "conducted_language": "ru",
+    "ru": {
+      "title": "Венеция без спешки",
+      "city": "Венеция",
+      "description": "маршрут без гонки по главным точкам: тихие кампи, виды на каналы и спокойный рассказ о городе.",
+      "route": [
+        "Кампо Санта-Мария-Формоза — старт в жилом квартале Кастелло",
+        "Мост Риальто — вид на Гранд-канал без долгого ожидания в толпе",
+        "Дворец дожей с внешней стороны — краткая история площади Сан-Марко",
+        "Тихий канал у Сант-Захария — финальная остановка в стороне от потока"
+      ],
+      "meeting_point": "Кампо Санта-Мария-Формоза, у церкви Санта-Мария-Формоза"
+    },
+    "en": {
+      "title": "Venice without the rush",
+      "city": "Venice",
+      "description": "A route that avoids racing between landmarks: quiet campi, canal views, and an unhurried talk about the city.",
+      "route": [
+        "Campo Santa Maria Formosa — a start in the residential Castello district",
+        "Rialto Bridge — a Grand Canal view without a long wait in the crowd",
+        "Doge's Palace from the outside — a short history of St Mark's Square",
+        "A quiet canal near San Zaccaria — a final stop away from the main flow"
+      ],
+      "meeting_point": "Campo Santa Maria Formosa, by the church of Santa Maria Formosa"
+    },
+    "it": {
+      "title": "Venezia senza fretta",
+      "city": "Venezia",
+      "description": "Un itinerario senza corsa tra i luoghi più noti: campi silenziosi, viste sui canali e un racconto tranquillo della città.",
+      "route": [
+        "Campo Santa Maria Formosa — partenza nel sestiere residenziale di Castello",
+        "Ponte di Rialto — vista sul Canal Grande senza una lunga attesa nella folla",
+        "Palazzo Ducale dall'esterno — breve storia di Piazza San Marco",
+        "Canale tranquillo vicino a San Zaccaria — sosta finale lontano dal flusso"
+      ],
+      "meeting_point": "Campo Santa Maria Formosa, presso la chiesa di Santa Maria Formosa"
+    }
+  },
+  {
+    "id": "verona-evening",
+    "city": "verona",
+    "duration_minutes": 120,
+    "price_per_person": 40,
+    "currency": "EUR",
+    "conducted_language": "ru",
+    "ru": {
+      "title": "Вечерняя Верона",
+      "city": "Верона",
+      "description": "вечерняя прогулка по освещённому центру Вероны: арена, торговые улицы и главные площади.",
+      "route": [
+        "Арена ди Верона — внешний осмотр римского амфитеатра",
+        "Виа Мадзини — короткая прогулка по главной пешеходной улице",
+        "Дом Джульетты с внешней стороны — рассказ о городском мифе",
+        "Пьяцца делле Эрбе — финал на историческом рыночном площади"
+      ],
+      "meeting_point": "Пьяцца Бра, у фонтана перед ареной"
+    },
+    "en": {
+      "title": "Evening Verona",
+      "city": "Verona",
+      "description": "A evening walk through the lit-up centre of Verona: the arena, shopping streets, and the main squares.",
+      "route": [
+        "Arena di Verona — an exterior visit to the Roman amphitheatre",
+        "Via Mazzini — a short walk along the main pedestrian street",
+        "Juliet's house from the outside — a talk about the city's famous myth",
+        "Piazza delle Erbe — a finish in the historic market square"
+      ],
+      "meeting_point": "Piazza Bra, by the fountain in front of the arena"
+    },
+    "it": {
+      "title": "Verona di sera",
+      "city": "Verona",
+      "description": "Una passeggiata serale nel centro illuminato di Verona: l'Arena, le vie dello shopping e le piazze principali.",
+      "route": [
+        "Arena di Verona — visita esterna dell'anfiteatro romano",
+        "Via Mazzini — breve camminata nella principale via pedonale",
+        "Casa di Giulietta dall'esterno — racconto del mito cittadino",
+        "Piazza delle Erbe — conclusione nella storica piazza del mercato"
+      ],
+      "meeting_point": "Piazza Bra, presso la fontana di fronte all'Arena"
+    }
+  },
+  {
+    "id": "florence-renaissance",
+    "city": "florence",
+    "duration_minutes": 180,
+    "price_per_person": 55,
+    "currency": "EUR",
+    "conducted_language": "ru",
+    "ru": {
+      "title": "Флоренция и эпоха Возрождения",
+      "city": "Флоренция",
+      "description": "маршрут по знаковым местам флорентийского Возрождения: площади, собор и мост через Арно.",
+      "route": [
+        "Пьяцца делла Синьория — старт у Палаццо Веккьо",
+        "Собор Санта-Мария-дель-Фьоре — внешний осмотр купола Брунеллески",
+        "Понте Веккьо — рассказ о ювелирных лавках и реке Арно",
+        "Санта-Кроче — финал у фасада базилики с гробницами великих флорентийцев"
+      ],
+      "meeting_point": "Пьяцца делла Синьория, у копии Давида у Палаццо Веккьо"
+    },
+    "en": {
+      "title": "Florence and the Renaissance",
+      "city": "Florence",
+      "description": "A route through landmark sites of the Florentine Renaissance: squares, the cathedral, and the bridge over the Arno.",
+      "route": [
+        "Piazza della Signoria — a start beside Palazzo Vecchio",
+        "Cathedral of Santa Maria del Fiore — an exterior visit to Brunelleschi's dome",
+        "Ponte Vecchio — a talk about the goldsmiths' shops and the river Arno",
+        "Santa Croce — a finish at the basilica façade, home to tombs of famous Florentines"
+      ],
+      "meeting_point": "Piazza della Signoria, by the copy of David at Palazzo Vecchio"
+    },
+    "it": {
+      "title": "Firenze e il Rinascimento",
+      "city": "Firenze",
+      "description": "Un itinerario tra i luoghi simbolo del Rinascimento fiorentino: piazze, il duomo e il ponte sull'Arno.",
+      "route": [
+        "Piazza della Signoria — partenza accanto a Palazzo Vecchio",
+        "Cattedrale di Santa Maria del Fiore — visita esterna alla cupola del Brunelleschi",
+        "Ponte Vecchio — racconto delle botteghe orafe e del fiume Arno",
+        "Santa Croce — conclusione davanti alla facciata della basilica con le tombe dei grandi fiorentini"
+      ],
+      "meeting_point": "Piazza della Signoria, presso la copia del David a Palazzo Vecchio"
+    }
+  }
+]
